@@ -1,0 +1,29 @@
+Java: opgave inheritance en polymorfisme
+Een bedrijf betaalt zijn werknemers, die verondersteld worden 40 u/week te werken, op
+wekelijkse basis.
+
+Er werken 4 types werknemers:
+* werknemers die een vast weeksalaris hebben;
+* werknemers die per uur betaald worden, en die voor de overuren die zij presteren
+tegen 150% vergoed worden;
+* verkopers die een percentage van hun verkoop krijgen als weeksalaris;
+* verkopers die bovenop een vast weeksalaris een percentage van hun verkoop
+krijgen.
+
+
+Van elke werknemer worden voornaam, familienaam en social security number
+bijgehouden.
+
+Deze week wil de firma de laatste categorie verkopers belonen door hun
+vast salaris met 10% te verhogen.
+
+Programmeer een klassenhiërarchie met de nodige klassen, velden, properties (setters
+en getters) en methodes voor dit probleem.
+
+Schrijf een testprogramma waarin een tabel met verschillende soorten werknemers
+gevuld wordt.
+
+Vervolgens gebruik je 1 lus waarin
+- de gegevens van alle werknemers getoond worden;
+- het loon van alle werknemers berekend wordt;
+- het loon van de laatste categorie verkopers met 10% verhoogd wordt.
